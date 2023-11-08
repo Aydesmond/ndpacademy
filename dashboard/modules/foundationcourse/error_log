@@ -1,0 +1,14 @@
+[29-Jul-2020 09:16:32 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[29-Jul-2020 09:16:32 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8
+[29-Jul-2020 09:16:37 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[29-Jul-2020 09:16:37 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8
+[29-Jul-2020 09:17:07 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[29-Jul-2020 09:17:07 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8
+[29-Jul-2020 09:17:19 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[29-Jul-2020 09:17:19 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8
+[29-Jul-2020 09:26:55 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[29-Jul-2020 09:26:55 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8
+[29-Jul-2020 09:29:34 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[29-Jul-2020 09:29:34 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8
+[18-Aug-2020 18:33:47 UTC] PHP Notice:  Undefined index: email in /home2/ndpracad/public_html/dashboard/validate.php on line 7
+[18-Aug-2020 18:33:47 UTC] PHP Notice:  Undefined index: password in /home2/ndpracad/public_html/dashboard/validate.php on line 8

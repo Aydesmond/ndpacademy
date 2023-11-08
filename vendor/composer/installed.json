@@ -1,0 +1,1489 @@
+[
+    {
+        "name": "ajaxray/php-watermark",
+        "version": "v0.1.1",
+        "version_normalized": "0.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ajaxray/php-watermark.git",
+            "reference": "7e4c79d063bc52c39145eadda6305a04303f5703"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ajaxray/php-watermark/zipball/7e4c79d063bc52c39145eadda6305a04303f5703",
+            "reference": "7e4c79d063bc52c39145eadda6305a04303f5703",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6 || >=7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "5.7.5",
+            "satooshi/php-coveralls": "dev-master"
+        },
+        "time": "2017-03-18T05:50:04+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Ajaxray\\PHPWatermark\\": "src/Ajaxray/PHPWatermark/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anis Uddin Ahmad",
+                "email": "anis.programmer@gmail.com"
+            }
+        ],
+        "description": "Add text or image watermark on images.",
+        "homepage": "http://github.com/ajaxray/php-watermark",
+        "keywords": [
+            "image",
+            "image-manipulation",
+            "imagemagick-watermark",
+            "imagemagick-wrapper",
+            "watermark"
+        ]
+    },
+    {
+        "name": "convertapi/convertapi-php",
+        "version": "v1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ConvertAPI/convertapi-php.git",
+            "reference": "c298acf56921c8f77253c3c22611d06c620cc9c7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ConvertAPI/convertapi-php/zipball/c298acf56921c8f77253c3c22611d06c620cc9c7",
+            "reference": "c298acf56921c8f77253c3c22611d06c620cc9c7",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "ext-json": "*",
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.0"
+        },
+        "time": "2020-05-31T16:07:49+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "ConvertApi\\": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "ConvertAPI and contributors",
+                "homepage": "https://github.com/ConvertAPI/convertapi-php/graphs/contributors"
+            }
+        ],
+        "description": "Convert API PHP Client",
+        "homepage": "https://github.com/ConvertAPI/convertapi-php",
+        "keywords": [
+            "api",
+            "client",
+            "conversion",
+            "convert"
+        ]
+    },
+    {
+        "name": "doctrine/lexer",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/doctrine/lexer.git",
+            "reference": "e17f069ede36f7534b95adec71910ed1b49c74ea"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/doctrine/lexer/zipball/e17f069ede36f7534b95adec71910ed1b49c74ea",
+            "reference": "e17f069ede36f7534b95adec71910ed1b49c74ea",
+            "shasum": ""
+        },
+        "require": {
+            "php": "^7.2"
+        },
+        "require-dev": {
+            "doctrine/coding-standard": "^6.0",
+            "phpstan/phpstan": "^0.11.8",
+            "phpunit/phpunit": "^8.2"
+        },
+        "time": "2019-07-30T19:33:28+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Doctrine\\Common\\Lexer\\": "lib/Doctrine/Common/Lexer"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Guilherme Blanco",
+                "email": "guilhermeblanco@gmail.com"
+            },
+            {
+                "name": "Roman Borschel",
+                "email": "roman@code-factory.org"
+            },
+            {
+                "name": "Johannes Schmitt",
+                "email": "schmittjoh@gmail.com"
+            }
+        ],
+        "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
+        "homepage": "https://www.doctrine-project.org/projects/lexer.html",
+        "keywords": [
+            "annotations",
+            "docblock",
+            "lexer",
+            "parser",
+            "php"
+        ]
+    },
+    {
+        "name": "egulias/email-validator",
+        "version": "2.1.11",
+        "version_normalized": "2.1.11.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/egulias/EmailValidator.git",
+            "reference": "92dd169c32f6f55ba570c309d83f5209cefb5e23"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/92dd169c32f6f55ba570c309d83f5209cefb5e23",
+            "reference": "92dd169c32f6f55ba570c309d83f5209cefb5e23",
+            "shasum": ""
+        },
+        "require": {
+            "doctrine/lexer": "^1.0.1",
+            "php": ">= 5.5"
+        },
+        "require-dev": {
+            "dominicsayers/isemail": "dev-master",
+            "phpunit/phpunit": "^4.8.35||^5.7||^6.0",
+            "satooshi/php-coveralls": "^1.0.1",
+            "symfony/phpunit-bridge": "^4.4@dev"
+        },
+        "suggest": {
+            "ext-intl": "PHP Internationalization Libraries are required to use the SpoofChecking validation"
+        },
+        "time": "2019-08-13T17:33:27+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Egulias\\EmailValidator\\": "EmailValidator"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Eduardo Gulias Davis"
+            }
+        ],
+        "description": "A library for validating emails against several RFCs",
+        "homepage": "https://github.com/egulias/EmailValidator",
+        "keywords": [
+            "email",
+            "emailvalidation",
+            "emailvalidator",
+            "validation",
+            "validator"
+        ]
+    },
+    {
+        "name": "guzzlehttp/guzzle",
+        "version": "6.5.3",
+        "version_normalized": "6.5.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/guzzle/guzzle.git",
+            "reference": "aab4ebd862aa7d04f01a4b51849d657db56d882e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/guzzle/guzzle/zipball/aab4ebd862aa7d04f01a4b51849d657db56d882e",
+            "reference": "aab4ebd862aa7d04f01a4b51849d657db56d882e",
+            "shasum": ""
+        },
+        "require": {
+            "ext-json": "*",
+            "guzzlehttp/promises": "^1.0",
+            "guzzlehttp/psr7": "^1.6.1",
+            "php": ">=5.5",
+            "symfony/polyfill-intl-idn": "^1.11"
+        },
+        "require-dev": {
+            "ext-curl": "*",
+            "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4 || ^7.0",
+            "psr/log": "^1.1"
+        },
+        "suggest": {
+            "psr/log": "Required for using the Log middleware"
+        },
+        "time": "2020-04-18T10:38:46+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "6.5-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GuzzleHttp\\": "src/"
+            },
+            "files": [
+                "src/functions_include.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Michael Dowling",
+                "email": "mtdowling@gmail.com",
+                "homepage": "https://github.com/mtdowling"
+            }
+        ],
+        "description": "Guzzle is a PHP HTTP client library",
+        "homepage": "http://guzzlephp.org/",
+        "keywords": [
+            "client",
+            "curl",
+            "framework",
+            "http",
+            "http client",
+            "rest",
+            "web service"
+        ]
+    },
+    {
+        "name": "guzzlehttp/promises",
+        "version": "v1.3.1",
+        "version_normalized": "1.3.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/guzzle/promises.git",
+            "reference": "a59da6cf61d80060647ff4d3eb2c03a2bc694646"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/guzzle/promises/zipball/a59da6cf61d80060647ff4d3eb2c03a2bc694646",
+            "reference": "a59da6cf61d80060647ff4d3eb2c03a2bc694646",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^4.0"
+        },
+        "time": "2016-12-20T10:07:11+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.4-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GuzzleHttp\\Promise\\": "src/"
+            },
+            "files": [
+                "src/functions_include.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Michael Dowling",
+                "email": "mtdowling@gmail.com",
+                "homepage": "https://github.com/mtdowling"
+            }
+        ],
+        "description": "Guzzle promises library",
+        "keywords": [
+            "promise"
+        ]
+    },
+    {
+        "name": "guzzlehttp/psr7",
+        "version": "1.6.1",
+        "version_normalized": "1.6.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/guzzle/psr7.git",
+            "reference": "239400de7a173fe9901b9ac7c06497751f00727a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/guzzle/psr7/zipball/239400de7a173fe9901b9ac7c06497751f00727a",
+            "reference": "239400de7a173fe9901b9ac7c06497751f00727a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0",
+            "psr/http-message": "~1.0",
+            "ralouphie/getallheaders": "^2.0.5 || ^3.0.0"
+        },
+        "provide": {
+            "psr/http-message-implementation": "1.0"
+        },
+        "require-dev": {
+            "ext-zlib": "*",
+            "phpunit/phpunit": "~4.8.36 || ^5.7.27 || ^6.5.8"
+        },
+        "suggest": {
+            "zendframework/zend-httphandlerrunner": "Emit PSR-7 responses"
+        },
+        "time": "2019-07-01T23:21:34+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.6-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GuzzleHttp\\Psr7\\": "src/"
+            },
+            "files": [
+                "src/functions_include.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Michael Dowling",
+                "email": "mtdowling@gmail.com",
+                "homepage": "https://github.com/mtdowling"
+            },
+            {
+                "name": "Tobias Schultze",
+                "homepage": "https://github.com/Tobion"
+            }
+        ],
+        "description": "PSR-7 message implementation that also provides common utility methods",
+        "keywords": [
+            "http",
+            "message",
+            "psr-7",
+            "request",
+            "response",
+            "stream",
+            "uri",
+            "url"
+        ]
+    },
+    {
+        "name": "h4cc/wkhtmltopdf-amd64",
+        "version": "0.12.4",
+        "version_normalized": "0.12.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/h4cc/wkhtmltopdf-amd64.git",
+            "reference": "4e2ab2d032a5d7fbe2a741de8b10b8989523c95b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/h4cc/wkhtmltopdf-amd64/zipball/4e2ab2d032a5d7fbe2a741de8b10b8989523c95b",
+            "reference": "4e2ab2d032a5d7fbe2a741de8b10b8989523c95b",
+            "shasum": ""
+        },
+        "time": "2018-01-15T06:57:33+00:00",
+        "bin": [
+            "bin/wkhtmltopdf-amd64"
+        ],
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "h4cc\\WKHTMLToPDF\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL Version 3"
+        ],
+        "authors": [
+            {
+                "name": "Julius Beckmann",
+                "email": "github@h4cc.de"
+            }
+        ],
+        "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
+        "homepage": "http://wkhtmltopdf.org/",
+        "keywords": [
+            "binary",
+            "convert",
+            "pdf",
+            "snapshot",
+            "thumbnail",
+            "wkhtmltopdf"
+        ]
+    },
+    {
+        "name": "h4cc/wkhtmltopdf-i386",
+        "version": "0.12.4",
+        "version_normalized": "0.12.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/h4cc/wkhtmltopdf-i386.git",
+            "reference": "da14486ec8eba1873b026b56126ed02d2f2ae5e3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/h4cc/wkhtmltopdf-i386/zipball/da14486ec8eba1873b026b56126ed02d2f2ae5e3",
+            "reference": "da14486ec8eba1873b026b56126ed02d2f2ae5e3",
+            "shasum": ""
+        },
+        "time": "2018-01-15T07:18:15+00:00",
+        "bin": [
+            "bin/wkhtmltopdf-i386"
+        ],
+        "type": "library",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL Version 3"
+        ],
+        "authors": [
+            {
+                "name": "Julius Beckmann",
+                "email": "github@h4cc.de"
+            }
+        ],
+        "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for i386 systems.",
+        "homepage": "http://wkhtmltopdf.org/",
+        "keywords": [
+            "binary",
+            "convert",
+            "pdf",
+            "snapshot",
+            "thumbnail",
+            "wkhtmltopdf"
+        ]
+    },
+    {
+        "name": "ilovepdf/ilovepdf-php",
+        "version": "v1.1.17",
+        "version_normalized": "1.1.17.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ilovepdf/ilovepdf-php.git",
+            "reference": "efee56a0921a175fc5281123fed002ed7e156d29"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ilovepdf/ilovepdf-php/zipball/efee56a0921a175fc5281123fed002ed7e156d29",
+            "reference": "efee56a0921a175fc5281123fed002ed7e156d29",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6.1"
+        },
+        "time": "2019-09-25T10:20:20+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Ilovepdf\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "ilovepdf",
+                "email": "info@ilovepdf.com"
+            }
+        ],
+        "description": "iLovePDF Php Api",
+        "homepage": "https://ilovepdf.com/"
+    },
+    {
+        "name": "ircmaxell/random-lib",
+        "version": "v1.2.0",
+        "version_normalized": "1.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ircmaxell/RandomLib.git",
+            "reference": "e9e0204f40e49fa4419946c677eccd3fa25b8cf4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ircmaxell/RandomLib/zipball/e9e0204f40e49fa4419946c677eccd3fa25b8cf4",
+            "reference": "e9e0204f40e49fa4419946c677eccd3fa25b8cf4",
+            "shasum": ""
+        },
+        "require": {
+            "ircmaxell/security-lib": "^1.1",
+            "php": ">=5.3.2"
+        },
+        "require-dev": {
+            "friendsofphp/php-cs-fixer": "^1.11",
+            "mikey179/vfsstream": "^1.6",
+            "phpunit/phpunit": "^4.8|^5.0"
+        },
+        "time": "2016-09-07T15:52:06+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "RandomLib": "lib"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anthony Ferrara",
+                "email": "ircmaxell@ircmaxell.com",
+                "homepage": "http://blog.ircmaxell.com"
+            }
+        ],
+        "description": "A Library For Generating Secure Random Numbers",
+        "homepage": "https://github.com/ircmaxell/RandomLib",
+        "keywords": [
+            "cryptography",
+            "random",
+            "random-numbers",
+            "random-strings"
+        ]
+    },
+    {
+        "name": "ircmaxell/security-lib",
+        "version": "v1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ircmaxell/SecurityLib.git",
+            "reference": "f3db6de12c20c9bcd1aa3db4353a1bbe0e44e1b5"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ircmaxell/SecurityLib/zipball/f3db6de12c20c9bcd1aa3db4353a1bbe0e44e1b5",
+            "reference": "f3db6de12c20c9bcd1aa3db4353a1bbe0e44e1b5",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "require-dev": {
+            "mikey179/vfsstream": "1.1.*"
+        },
+        "time": "2015-03-20T14:31:23+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "SecurityLib": "lib"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anthony Ferrara",
+                "email": "ircmaxell@ircmaxell.com",
+                "homepage": "http://blog.ircmaxell.com"
+            }
+        ],
+        "description": "A Base Security Library",
+        "homepage": "https://github.com/ircmaxell/SecurityLib"
+    },
+    {
+        "name": "knplabs/knp-snappy",
+        "version": "v1.2.1",
+        "version_normalized": "1.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/KnpLabs/snappy.git",
+            "reference": "7bac60fb729147b7ccd8532c07df3f52a4afa8a4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/KnpLabs/snappy/zipball/7bac60fb729147b7ccd8532c07df3f52a4afa8a4",
+            "reference": "7bac60fb729147b7ccd8532c07df3f52a4afa8a4",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.1",
+            "psr/log": "^1.0",
+            "symfony/process": "~3.4||~4.3||~5.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~7.4"
+        },
+        "suggest": {
+            "h4cc/wkhtmltoimage-amd64": "Provides wkhtmltoimage-amd64 binary for Linux-compatible machines, use version `~0.12` as dependency",
+            "h4cc/wkhtmltoimage-i386": "Provides wkhtmltoimage-i386 binary for Linux-compatible machines, use version `~0.12` as dependency",
+            "h4cc/wkhtmltopdf-amd64": "Provides wkhtmltopdf-amd64 binary for Linux-compatible machines, use version `~0.12` as dependency",
+            "h4cc/wkhtmltopdf-i386": "Provides wkhtmltopdf-i386 binary for Linux-compatible machines, use version `~0.12` as dependency",
+            "wemersonjanuario/wkhtmltopdf-windows": "Provides wkhtmltopdf executable for Windows, use version `~0.12` as dependency"
+        },
+        "time": "2020-01-20T08:30:30+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Knp\\Snappy\\": "src/Knp/Snappy"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "KnpLabs Team",
+                "homepage": "http://knplabs.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "http://github.com/KnpLabs/snappy/contributors"
+            }
+        ],
+        "description": "PHP5 library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage.",
+        "homepage": "http://github.com/KnpLabs/snappy",
+        "keywords": [
+            "knp",
+            "knplabs",
+            "pdf",
+            "snapshot",
+            "thumbnail",
+            "wkhtmltopdf"
+        ]
+    },
+    {
+        "name": "league/oauth2-client",
+        "version": "1.4.2",
+        "version_normalized": "1.4.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/thephpleague/oauth2-client.git",
+            "reference": "01f955b85040b41cf48885b078f7fd39a8be5411"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/thephpleague/oauth2-client/zipball/01f955b85040b41cf48885b078f7fd39a8be5411",
+            "reference": "01f955b85040b41cf48885b078f7fd39a8be5411",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "guzzlehttp/guzzle": "~6.0",
+            "ircmaxell/random-lib": "~1.1",
+            "php": ">=5.5.0"
+        },
+        "require-dev": {
+            "jakub-onderka/php-parallel-lint": "0.8.*",
+            "mockery/mockery": "~0.9",
+            "phpunit/phpunit": "~4.0",
+            "satooshi/php-coveralls": "0.6.*",
+            "squizlabs/php_codesniffer": "~2.0"
+        },
+        "time": "2016-07-28T13:20:43+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "League\\OAuth2\\Client\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Alex Bilbie",
+                "email": "hello@alexbilbie.com",
+                "homepage": "http://www.alexbilbie.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "OAuth 2.0 Client Library",
+        "keywords": [
+            "Authentication",
+            "SSO",
+            "authorization",
+            "identity",
+            "idp",
+            "oauth",
+            "oauth2",
+            "single sign on"
+        ]
+    },
+    {
+        "name": "oodle/inflect",
+        "version": "v0.2.0",
+        "version_normalized": "0.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/oodle/inflect.git",
+            "reference": "bbeb2fba9302fb27c9cfbf215b9f4224277a44ed"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/oodle/inflect/zipball/bbeb2fba9302fb27c9cfbf215b9f4224277a44ed",
+            "reference": "bbeb2fba9302fb27c9cfbf215b9f4224277a44ed",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.17"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2013-11-30T06:16:23+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Inflect": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Matthew J. Mucklo",
+                "email": "mmucklo@corp.oodle.com"
+            },
+            {
+                "name": "Sho Kuwamoto",
+                "email": "sho@kuwamoto.org"
+            }
+        ],
+        "description": "inflect - a memoizing inflector for php",
+        "keywords": [
+            "inflect",
+            "inflector",
+            "pluralize",
+            "singularize",
+            "urlify"
+        ]
+    },
+    {
+        "name": "pdffiller/pdffiller-php-api-client",
+        "version": "3.0.1",
+        "version_normalized": "3.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/pdffiller/pdffiller-php-api-client.git",
+            "reference": "162729d6084a8a508a2283831ddc53a29a978199"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/pdffiller/pdffiller-php-api-client/zipball/162729d6084a8a508a2283831ddc53a29a978199",
+            "reference": "162729d6084a8a508a2283831ddc53a29a978199",
+            "shasum": ""
+        },
+        "require": {
+            "league/oauth2-client": "^1.0",
+            "oodle/inflect": "^0.2.0",
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "adammbalogh/key-value-store-file": "^0.5.3",
+            "larapack/dd": "^1.0",
+            "nesbot/carbon": "^1.21",
+            "vlucas/phpdotenv": "^2.1"
+        },
+        "time": "2019-01-04T14:01:11+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PDFfiller\\OAuth2\\Client\\Provider\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "API Team",
+                "email": "integrations@pdffiller.com"
+            }
+        ],
+        "description": "PHP client for pdffiller.com REST API",
+        "keywords": [
+            "api",
+            "client",
+            "pdffiller",
+            "rest"
+        ]
+    },
+    {
+        "name": "psr/http-message",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/http-message.git",
+            "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/http-message/zipball/f6561bf28d520154e4b0ec72be95418abe6d9363",
+            "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-08-06T14:39:51+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Psr\\Http\\Message\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for HTTP messages",
+        "homepage": "https://github.com/php-fig/http-message",
+        "keywords": [
+            "http",
+            "http-message",
+            "psr",
+            "psr-7",
+            "request",
+            "response"
+        ]
+    },
+    {
+        "name": "psr/log",
+        "version": "1.1.3",
+        "version_normalized": "1.1.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/log.git",
+            "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/log/zipball/0f73288fd15629204f9d42b7055f72dacbe811fc",
+            "reference": "0f73288fd15629204f9d42b7055f72dacbe811fc",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2020-03-23T09:12:05+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Psr\\Log\\": "Psr/Log/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for logging libraries",
+        "homepage": "https://github.com/php-fig/log",
+        "keywords": [
+            "log",
+            "psr",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "ralouphie/getallheaders",
+        "version": "3.0.3",
+        "version_normalized": "3.0.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ralouphie/getallheaders.git",
+            "reference": "120b605dfeb996808c31b6477290a714d356e822"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ralouphie/getallheaders/zipball/120b605dfeb996808c31b6477290a714d356e822",
+            "reference": "120b605dfeb996808c31b6477290a714d356e822",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6"
+        },
+        "require-dev": {
+            "php-coveralls/php-coveralls": "^2.1",
+            "phpunit/phpunit": "^5 || ^6.5"
+        },
+        "time": "2019-03-08T08:55:37+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/getallheaders.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ralph Khattar",
+                "email": "ralph.khattar@gmail.com"
+            }
+        ],
+        "description": "A polyfill for getallheaders."
+    },
+    {
+        "name": "swiftmailer/swiftmailer",
+        "version": "v6.2.1",
+        "version_normalized": "6.2.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/swiftmailer/swiftmailer.git",
+            "reference": "5397cd05b0a0f7937c47b0adcb4c60e5ab936b6a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/5397cd05b0a0f7937c47b0adcb4c60e5ab936b6a",
+            "reference": "5397cd05b0a0f7937c47b0adcb4c60e5ab936b6a",
+            "shasum": ""
+        },
+        "require": {
+            "egulias/email-validator": "~2.0",
+            "php": ">=7.0.0",
+            "symfony/polyfill-iconv": "^1.0",
+            "symfony/polyfill-intl-idn": "^1.10",
+            "symfony/polyfill-mbstring": "^1.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "~0.9.1",
+            "symfony/phpunit-bridge": "^3.4.19|^4.1.8"
+        },
+        "suggest": {
+            "ext-intl": "Needed to support internationalized email addresses",
+            "true/punycode": "Needed to support internationalized email addresses, if ext-intl is not installed"
+        },
+        "time": "2019-04-21T09:21:45+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "6.2-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "lib/swift_required.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Chris Corbyn"
+            },
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            }
+        ],
+        "description": "Swiftmailer, free feature-rich PHP mailer",
+        "homepage": "https://swiftmailer.symfony.com",
+        "keywords": [
+            "email",
+            "mail",
+            "mailer"
+        ]
+    },
+    {
+        "name": "symfony/polyfill-iconv",
+        "version": "v1.12.0",
+        "version_normalized": "1.12.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-iconv.git",
+            "reference": "685968b11e61a347c18bf25db32effa478be610f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-iconv/zipball/685968b11e61a347c18bf25db32effa478be610f",
+            "reference": "685968b11e61a347c18bf25db32effa478be610f",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "suggest": {
+            "ext-iconv": "For best performance"
+        },
+        "time": "2019-08-06T08:03:45+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.12-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Iconv\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nicolas Grekas",
+                "email": "p@tchwork.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill for the Iconv extension",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "iconv",
+            "polyfill",
+            "portable",
+            "shim"
+        ]
+    },
+    {
+        "name": "symfony/polyfill-intl-idn",
+        "version": "v1.12.0",
+        "version_normalized": "1.12.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-intl-idn.git",
+            "reference": "6af626ae6fa37d396dc90a399c0ff08e5cfc45b2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/6af626ae6fa37d396dc90a399c0ff08e5cfc45b2",
+            "reference": "6af626ae6fa37d396dc90a399c0ff08e5cfc45b2",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3",
+            "symfony/polyfill-mbstring": "^1.3",
+            "symfony/polyfill-php72": "^1.9"
+        },
+        "suggest": {
+            "ext-intl": "For best performance"
+        },
+        "time": "2019-08-06T08:03:45+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.12-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Intl\\Idn\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Laurent Bassin",
+                "email": "laurent@bassin.info"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "idn",
+            "intl",
+            "polyfill",
+            "portable",
+            "shim"
+        ]
+    },
+    {
+        "name": "symfony/polyfill-mbstring",
+        "version": "v1.12.0",
+        "version_normalized": "1.12.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-mbstring.git",
+            "reference": "b42a2f66e8f1b15ccf25652c3424265923eb4f17"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/b42a2f66e8f1b15ccf25652c3424265923eb4f17",
+            "reference": "b42a2f66e8f1b15ccf25652c3424265923eb4f17",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "suggest": {
+            "ext-mbstring": "For best performance"
+        },
+        "time": "2019-08-06T08:03:45+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.12-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Mbstring\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nicolas Grekas",
+                "email": "p@tchwork.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill for the Mbstring extension",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "mbstring",
+            "polyfill",
+            "portable",
+            "shim"
+        ]
+    },
+    {
+        "name": "symfony/polyfill-php72",
+        "version": "v1.12.0",
+        "version_normalized": "1.12.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-php72.git",
+            "reference": "04ce3335667451138df4307d6a9b61565560199e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/04ce3335667451138df4307d6a9b61565560199e",
+            "reference": "04ce3335667451138df4307d6a9b61565560199e",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "time": "2019-08-06T08:03:45+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.12-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Php72\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Nicolas Grekas",
+                "email": "p@tchwork.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "polyfill",
+            "portable",
+            "shim"
+        ]
+    },
+    {
+        "name": "symfony/polyfill-php80",
+        "version": "v1.17.0",
+        "version_normalized": "1.17.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/polyfill-php80.git",
+            "reference": "5e30b2799bc1ad68f7feb62b60a73743589438dd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/5e30b2799bc1ad68f7feb62b60a73743589438dd",
+            "reference": "5e30b2799bc1ad68f7feb62b60a73743589438dd",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0.8"
+        },
+        "time": "2020-05-12T16:47:27+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.17-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Polyfill\\Php80\\": ""
+            },
+            "files": [
+                "bootstrap.php"
+            ],
+            "classmap": [
+                "Resources/stubs"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ion Bazan",
+                "email": "ion.bazan@gmail.com"
+            },
+            {
+                "name": "Nicolas Grekas",
+                "email": "p@tchwork.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
+        "homepage": "https://symfony.com",
+        "keywords": [
+            "compatibility",
+            "polyfill",
+            "portable",
+            "shim"
+        ],
+        "funding": [
+            {
+                "url": "https://symfony.com/sponsor",
+                "type": "custom"
+            },
+            {
+                "url": "https://github.com/fabpot",
+                "type": "github"
+            },
+            {
+                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                "type": "tidelift"
+            }
+        ]
+    },
+    {
+        "name": "symfony/process",
+        "version": "v5.1.2",
+        "version_normalized": "5.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/process.git",
+            "reference": "7f6378c1fa2147eeb1b4c385856ce9de0d46ebd1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/process/zipball/7f6378c1fa2147eeb1b4c385856ce9de0d46ebd1",
+            "reference": "7f6378c1fa2147eeb1b4c385856ce9de0d46ebd1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.2.5",
+            "symfony/polyfill-php80": "^1.15"
+        },
+        "time": "2020-05-30T20:35:19+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "5.1-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\Process\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony Process Component",
+        "homepage": "https://symfony.com",
+        "funding": [
+            {
+                "url": "https://symfony.com/sponsor",
+                "type": "custom"
+            },
+            {
+                "url": "https://github.com/fabpot",
+                "type": "github"
+            },
+            {
+                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                "type": "tidelift"
+            }
+        ]
+    }
+]
